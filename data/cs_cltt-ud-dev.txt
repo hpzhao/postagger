@@ -1,0 +1,938 @@
+HLAVA II OBSAHOVÉ VYMEZENÍ NĚKTERÝCH POLOŽEK ROZVAHY (BILANCE) 
+
+§ 5 Pohledávky za upsaný základní kapitál Položka "A. Pohledávky za upsaný
+základní kapitál" obsahuje pohledávky za upisovateli, společníky a členy
+družstva plynoucí z povinnosti splatit vklad do základního kapitálu a upsané
+nesplacené akcie. 
+
+§ 6 Dlouhodobý nehmotný majetek (1) Položka "B.I. Dlouhodobý nehmotný majetek"
+obsahuje zejména zřizovací výdaje, nehmotné výsledky výzkumu a vývoje, software,
+ocenitelná práva a goodwill s dobou použitelnosti delší než jeden rok a od výše
+ocenění určené účetní jednotkou, s výjimkou goodwillu, a při splnění podmínek
+dále stanovených a při splnění povinností stanovených zákonem, zejména
+respektováním principu významnosti a věrného a poctivého zobrazení majetku. Dále
+obsahuje povolenky na emise a preferenční limity. Dobou použitelnosti se rozumí
+doba, po kterou je majetek využitelný pro současnou nebo uchovatelný pro další
+činnost nebo může sloužit jako podklad nebo součást zdokonalovaných nebo jiných
+postupů a řešení včetně doby ověřování nehmotných výsledků. (2) Za dlouhodobý
+nehmotný majetek se dále považuje technické zhodnocení od částky stanovené
+zákonem o daních z příjmů, a to při splnění povinností uvedených v odstavci 1:
+a) k jehož účtování a odpisování je oprávněn nabyvatel užívacího práva k
+dlouhodobému nehmotnému majetku, o kterém neúčtuje jako o majetku, b) drobného
+nehmotného majetku, kterým se rozumí složky majetku vyjmenované v odstavci 1,
+pokud mají dobu použitelnosti delší než jeden rok a účetní jednotka je
+nevykazuje v položce "B.I. Dlouhodobý nehmotný majetek", ale v nákladech. (3)
+Podle odstavce 1 jsou a) zřizovacími výdaji souhrn výdajů vynaložených na
+založení účetní jednotky do okamžiku jejího vzniku, zejména soudní a správní
+poplatky, výdaje na pracovní cesty, odměny za zprostředkování a poradenské
+služby a nájemné. Zřizovací výdaje se odpisují nejvýše po dobu pěti let.
+Zřizovacími výdaji nejsou zejména výdaje na pořízení dlouhodobého majetku a
+zásob, na reprezentaci nebo výdaje související s přeměnou společnosti nebo
+družstva, b) nehmotnými výsledky výzkumu a vývoje a software takové výsledky a
+software, které jsou buď vytvořeny vlastní činností k obchodování s nimi a nebo
+nabyty od jiných osob, c) ocenitelnými právy zejména předměty průmyslového a
+obdobného vlastnictví, výsledky duševní tvůrčí činnosti a práva podle zvláštních
+právních předpisů za podmínek stanovených v písmenu b), d) goodwillem pro účely
+této vyhlášky kladný nebo záporný rozdíl mezi oceněním podniku, nebo jeho části
+ve smyslu obchodního zákoníku, nabytého zejména koupí, vkladem nebo oceněním
+majetku a závazků v rámci přeměn společnosti a souhrnem jeho individuálně
+přeceněných složek majetku sníženým o převzaté závazky. Goodwill se odpisuje
+rovnoměrně nejpozději do 60 měsíců od nabytí podniku nebo jeho části nebo od
+rozhodného dne přeměny do nákladů. Záporný goodwill se odpisuje rovnoměrně
+nejpozději do 60 měsíců od nabytí podniku nebo jeho části do výnosů, v případě
+přeměny společnosti se tento goodwill odpisuje do nákladů od rozhodného dne
+přeměny. Účetní jednotka může rozhodnout o době odpisování goodwillu nebo
+záporného goodwillu delší než 60 měsíců; tuto skutečnost účetní jednotka
+odůvodní v příloze v účetní závěrce, v případě přeměny společnosti se tento
+goodwill odpisuje do výnosů od rozhodného dne přeměny. O případnou následnou
+změnu kupní ceny podniku nebo jeho části se upraví hodnota goodwillu nebo
+záporného goodwillu, a to beze změny doby odpisování, e) povolenkami na emise
+bez ohledu na výši ocenění: 2. jednotky snížení emisí a ověřeného snížení emisí
+z projektových činností, 1. povolenky na emise skleníkových plynů a povolenky na
+emise způsobené letectvím, 3. jednotky přiděleného množství, f) preferenčními
+limity zejména individuální referenční množství mléka, individuální produkční
+kvóty a individuální limit prémiových práv bez ohledu na výši ocenění; u prvního
+držitele pouze v případě, pokud by náklady na získání informace o jejich ocenění
+reprodukční pořizovací cenou nepřevýšily její významnost. (4) Věci vzniklé při
+pořizování dlouhodobého nehmotného majetku, zejména prototypy, modely a vzorky,
+pokud nejsou vyřazeny například z důvodu prodeje nebo likvidace, se v případě
+dalšího využití ve vlastní činnosti zaúčtují na příslušný majetkový účet. V
+případě variantního postupu při pořizování dlouhodobého nehmotného majetku nebo
+jeho části jsou součástí ocenění dlouhodobého nehmotného majetku všechna
+variantní řešení. (5) Položka "B.I.6. Jiný dlouhodobý nehmotný majetek" obsahuje
+dlouhodobý nehmotný majetek nevykazovaný v ostatních položkách dlouhodobého
+nehmotného majetku, zejména povolenky na emise a preferenční limity. (6) Položka
+"B.I.7. Nedokončený dlouhodobý nehmotný majetek" obsahuje pořizovaný dlouhodobý
+nehmotný majetek po dobu jeho pořizování do uvedení do stavu způsobilého k
+užívání. (7) Položka "B.I.8. Poskytnuté zálohy na dlouhodobý nehmotný majetek"
+obsahuje krátkodobé a dlouhodobé zálohy poskytnuté na pořízení dlouhodobého
+nehmotného majetku. (8) Dlouhodobým nehmotným majetkem se stává pořizovaný
+majetek uvedený do stavu způsobilého k užívání, kterým se rozumí dokončení
+pořizovaného majetku a splnění stanovených funkcí a povinností stanovených
+právními předpisy pro jeho užívání. Obdobně se postupuje v případě technického
+zhodnocení. (9) Dlouhodobým nehmotným majetkem nejsou zejména znalecké posudky,
+průzkumy trhu, plány rozvoje, návrhy propagačních a reklamních akcí, certifikace
+systému jakosti a software pro řízení technologií nebo pro zařízení, která bez
+tohoto software nemohou fungovat. Dále může účetní jednotka rozhodnout, že
+dlouhodobým nehmotným majetkem nejsou zejména technické audity a energetické
+audity, lesní hospodářské plány a plány povodí. 
+
+§ 7 Dlouhodobý hmotný majetek (1) Položka "B.II.1. Pozemky" obsahuje pozemky bez
+ohledu na výši ocenění, pokud nejsou zbožím (§ 9 odst. 5). 
+
+(2) Položka "B.II.2. Stavby" obsahuje bez ohledu na výši ocenění a dobu
+použitelnosti a) stavby včetně budov, důlní díla a důlní stavby pod povrchem,
+vodní díla a další stavební díla podle zvláštních právních předpisů, b) otvírky
+nových lomů, pískoven a hlinišť, c) technické rekultivace, pokud zvláštní právní
+předpis nestanoví jinak, d) byty a nebytové prostory vymezené jako jednotky
+podle zvláštního právního předpisu. (3) Položka "B.II.3. Samostatné movité věci
+a soubory movitých věcí" obsahuje a) předměty z drahých kovů bez ohledu na výši
+ocenění, b) samostatné movité věci a soubory movitých věcí se samostatným
+technicko-ekonomickým určením s dobou použitelnosti delší než jeden rok a od
+výše ocenění určené účetní jednotkou, a to při splnění povinností stanovených
+zákonem, zejména respektováním principu významnosti a věrného a poctivého
+zobrazení majetku. Samostatné movité věci a soubory movitých věcí se samostatným
+technicko-ekonomickým určením s dobou použitelnosti delší než jeden rok
+nevykázané v položce "B.II.3. Samostatné movité věci a soubory movitých věcí" se
+považují za drobný hmotný majetek, o kterém účetní jednotka účtuje jako o
+zásobách. (4) Položka "B.II.4. Pěstitelské celky trvalých porostů" obsahuje a)
+ovocné stromy nebo ovocné keře vysázené na souvislém pozemku o výměře nad 0.25
+hektaru v hustotě nejméně 90 stromů nebo 1000 , keřů na b) 1 trvalý hektarporost
+vinic a chmelnic bez nosných konstrukcí. (5) Položka "B.II.5. Dospělá zvířata a
+jejich skupiny" obsahuje dospělá zvířata a jejich skupiny (například stáda,
+hejna), s dobou použitelnosti delší než jeden rok a od výše ocenění určené
+účetní jednotkou, a to při splnění povinností stanovených zákonem, zejména
+respektováním principu významnosti a věrného a poctivého zobrazení majetku. O
+dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok
+nevykázaných v položce "B.II.5. Dospělá zvířata a jejich skupiny" se účtuje jako
+o zásobách. (6) Položka "B.II.6. Jiný dlouhodobý hmotný majetek" obsahuje bez
+ohledu na výši ocenění a) ložiska nevyhrazeného nerostu nebo jejich části
+koupené nebo nabyté vkladem jako součást pozemku po 1. lednu 1997 v rozsahu
+vymezeném geologickým průzkumem a za podmínky stanovené v § 56 odst. 2 písm. d)
+a odst. 4, b) umělecká díla, která nejsou součástí stavby, sbírky, movité
+kulturní památky, předměty kulturní hodnoty a obdobné movité věci stanovené
+zvláštními právními předpisy, popřípadě jejich soubory. (7) Položka "B.II.2.
+Stavby" a položka "B.II.3. Samostatné movité věci a soubory movitých věcí" dále
+obsahuje technické zhodnocení a) k jehož účtování a odpisování je oprávněna jiná
+účetní jednotka než vlastník majetku, a to od částky stanovené zákonem o daních
+z příjmů, b) drobného hmotného majetku od částky technického zhodnocení
+stanovené zákonem o daních z příjmů. (8) Položka "B.II.7. Nedokončený dlouhodobý
+hmotný majetek" obsahuje pořizovaný dlouhodobý hmotný majetek po dobu jeho
+pořizování do uvedení do stavu způsobilého k užívání. (9) Položka "B.II.8.
+Poskytnuté zálohy na dlouhodobý hmotný majetek" obsahuje krátkodobé a dlouhodobé
+zálohy poskytnuté na pořízení dlouhodobého hmotného majetku. (10) Položka
+"B.II.9. Oceňovací rozdíl k nabytému majetku" obsahuje kladný (aktivní) nebo
+záporný (pasivní) rozdíl mezi oceněním podniku nebo jeho části nabytého zejména
+koupí, vkladem nebo oceněním majetku a závazků v rámci přeměn společnosti a
+souhrnem ocenění jeho jednotlivých složek majetku v účetnictví účetní jednotky
+prodávající, vkládající, zanikající nebo rozdělované odštěpením sníženým o
+převzaté závazky. Aktivní oceňovací rozdíl k nabytému majetku se odpisuje
+rovnoměrně 180 měsíců od nabytí podniku nebo jeho části do nákladů, v případě
+přeměny společnosti se tento oceňovací rozdíl k nabytému majetku odpisuje do
+nákladů od rozhodného dne přeměny. Pasivní oceňovací rozdíl k nabytému majetku
+se odpisuje rovnoměrně 180 měsíců od nabytí podniku nebo jeho části do výnosů, v
+případě přeměny společnosti se tento oceňovací rozdíl k nabytému majetku
+odpisuje do výnosů od rozhodného dne přeměny. Pokud nejsou součástí nabytého
+majetku, ke kterému je tvořen oceňovací rozdíl, aktiva s dobou použitelnosti
+delší než 15 let, účetní jednotka může rozhodnout o době odpisování aktivního
+nebo pasivního oceňovacího rozdílu kratší než 180 měsíců; tuto skutečnost účetní
+jednotka odůvodní v příloze v účetní závěrce. Neodepsaná část aktivního nebo
+pasivního oceňovacího rozdílu k nabytému majetku se jednorázově odepíše při
+vyřazení poslední složky dlouhodobého nehmotného nebo hmotného majetku. O
+případnou následnou změnu kupní ceny podniku nebo jeho části se upraví hodnota
+aktivního nebo pasivního oceňovacího rozdílu k nabytému majetku, a to beze změny
+doby odpisování. (11) Dlouhodobým hmotným majetkem se stávají pořizované věci
+uvedené do stavu způsobilého k užívání, kterým se rozumí dokončení věci a
+splnění technických funkcí a povinností stanovených zvláštními právními předpisy
+pro užívání (způsobilost k provozu). Obdobně se postupuje v případě technického
+zhodnocení. Toto ustanovení se nepoužije v případě nabytých věcí, které před
+nabytím byly uvedeny do stavu způsobilého k užívání a nevyžadují montáž u
+nabyvatele. 
+
+§ 8 Dlouhodobý finanční majetek (1) Položka "B.III.3. Ostatní dlouhodobé cenné
+papíry a podíly" obsahuje zejména podíly, které nepředstavují podíl v ovládaných
+osobách nebo podíl v účetních jednotkách pod podstatným vlivem, dluhové cenné
+papíry, u nichž má účetní jednotka záměr a schopnost držet je do splatnosti, a
+dále ostatní dlouhodobé cenné papíry, u nichž zpravidla v okamžiku pořízení není
+znám záměr účetní jednotky. Dluhovým cenným papírem se pro účely této vyhlášky
+rozumí cenný papír úvěrové povahy, například dluhopis s pevnou úrokovou sazbou,
+dluhopis, kdy je úrokový výnos stanoven rozdílem mezi jmenovitou hodnotou a jeho
+nižším emisním kursem, a směnka. (2) Položka "B.III.4. Půjčky a úvěry - ovládaná
+nebo ovládající osoba, podstatný vliv" obsahuje zejména poskytnuté dlouhodobé
+půjčky a úvěry ovládaným osobám a účetním jednotkám pod podstatným vlivem,
+poskytnuté dlouhodobé půjčky a úvěry mezi ovládanými osobami a účetními
+jednotkami pod podstatným vlivem a poskytnuté dlouhodobé půjčky a úvěry
+ovládajícím osobám a účetním jednotkám uplatňujícím podstatný vliv. (3) Položka
+"B.III.5. Jiný dlouhodobý finanční majetek" obsahuje zejména poskytnuté
+dlouhodobé půjčky a úvěry, pokud nejsou vykázány v položce "B.III.4. Půjčky a
+úvěry - ovládaná nebo ovládající osoba, podstatný vliv" a drahé kovy a kameny,
+případně předměty z drahých kovů a kamenů, pokud nejsou vykazovány v položce
+"B.II. Dlouhodobý hmotný majetek" nebo "C.I. Zásoby". (4) Položka "B.III.7.
+Poskytnuté zálohy na dlouhodobý finanční majetek" obsahuje krátkodobé a
+dlouhodobé zálohy poskytnuté na pořízení dlouhodobého finančního majetku. 
+
+§ 9 Zásoby (1) Položka "C.I.1. Materiál" zejména obsahuje a) suroviny, to je
+základní materiál, které při výrobním procesu přecházejí zcela nebo zčásti do
+výrobku a tvoří jeho podstatu, b) pomocné látky, které přecházejí také přímo do
+výrobku, netvoří však jeho podstatu, například lak na výrobky, c) látky, kterých
+je zapotřebí pro zajištění provozu účetní jednotky, například mazadla, palivo,
+čisticí prostředky, d) náhradní díly včetně náhradních dílů určených k výměně
+komponenty, e) obaly a obalové materiály, pokud nejsou účtovány jako dlouhodobý
+majetek nebo zboží, f) další movité věci s dobou použitelnosti jeden rok a
+kratší bez ohledu na výši ocenění, g) samostatné movité věci a soubory movitých
+věcí s dobou použitelnosti delší než jeden rok, nevykázané v položce "B.II.3.
+Samostatné movité věci a soubory movitých věcí", považované za drobný hmotný
+majetek, o kterém účetní jednotka účtuje jako o zásobách, h) pokusná zvířata.
+(2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty, které
+prošly jedním nebo několika výrobními stupni a nejsou již materiálem, nejsou
+však dosud hotovým výrobkem; tato položka rovněž obsahuje nedokončené činnosti,
+při nichž nevznikají hmotné produkty, b) odděleně evidované produkty, to je
+polotovary, které dosud neprošly všemi výrobními stupni a budou dokončeny nebo
+zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky. (3)
+Položka "C.I.3. Výrobky" obsahuje věci vlastní výroby určené k prodeji nebo ke
+spotřebě uvnitř účetní jednotky. (4) Položka "C.I.4. Mladá a ostatní zvířata a
+jejich skupiny" obsahuje zvířata a jejich skupiny včetně jatečných zvířat, která
+nejsou vykazována v položkách "B.II.5. Dospělá zvířata a jejich skupiny",
+"C.I.1. Materiál" a "C.I.5. Zboží". (5) Položka "C.I.5. Zboží" obsahuje movité
+věci včetně zvířat, nabyté za účelem prodeje, pokud účetní jednotka s těmito
+věcmi obchoduje. Položka obsahuje dále výrobky vlastní výroby, které byly
+aktivovány a předány do vlastních prodejen, a zvířata vlastního chovu, která
+dospěla, byla aktivována a jsou určena k prodeji s výjimkou jatečných zvířat.
+Položka obsahuje též nemovitosti, které účetní jednotka, jejímž předmětem
+činnosti je nákup a prodej nemovitostí, nakupuje za účelem prodeje a sama je
+nepoužívá, nepronajímá a neprovádí na nich technické zhodnocení. (6) Položka
+"C.I.6. Poskytnuté zálohy na zásoby" obsahuje krátkodobé a dlouhodobé zálohy
+poskytnuté na pořízení zásob. (7) O zásobách se účtuje průběžně způsobem A nebo
+periodicky způsobem B. U způsobu A se v průběhu účetního období účtuje s
+využitím účtů v účtové třídě 1 Zásoby. U způsobu B se v účtové třídě 1 Zásoby
+účtuje ke konci rozvahového dne na základě stavu zásob podle evidence o
+zásobách. Způsob B mohou účetní jednotky použít pouze v případě, že zajistí
+průkazné vedení evidence o zásobách tak, že budou schopny prokázat v průběhu
+účetního období stav zásob včetně ocenění těchto zásob podle zákona. 
+
+§ 10 Dlouhodobé pohledávky (1) Položka "C.II. Dlouhodobé pohledávky" obsahuje
+pohledávky, které v okamžiku, ke kterému je účetní závěrka sestavena, mají dobu
+splatnosti delší než jeden rok, a odloženou daňovou pohledávku. (2) Položka
+"C.II.1. Pohledávky z obchodních vztahů" obsahuje u všech účetních jednotek
+zejména pohledávky z obchodních vztahů a cenné papíry předané bance k eskontu.
+(3) Položka "C.II.2. Pohledávky - ovládaná nebo ovládající osoba" obsahuje
+pohledávky za ovládanými osobami, mezi ovládanými osobami a za ovládajícími
+osobami, s výjimkou pohledávek vykazovaných v jiných položkách. (4) Položka
+"C.II.3. Pohledávky - podstatný vliv" obsahuje pohledávky za účetními jednotkami
+pod podstatným vlivem, mezi účetními jednotkami pod podstatným vlivem a
+pohledávky účetních jednotek pod podstatným vlivem za účetními jednotkami
+uplatňujícími podstatný vliv, s výjimkou pohledávek vykazovaných v jiných
+položkách. (5) Položka "C.II.4. Pohledávky za společníky, členy družstva a za
+účastníky sdružení" obsahuje pohledávky za společníky, členy družstva a za
+účastníky sdružení, s výjimkou pohledávek vykazovaných v jiných položkách.
+Obsahuje zejména pohledávky ve výši předepsané úhrady ztráty a pohledávky za
+účastníky sdružení, které není právnickou osobou. (6) Položka "C.II.5.
+Dlouhodobé poskytnuté zálohy" obsahuje u všech účetních jednotek poskytnuté
+dlouhodobé zálohy, s výjimkou záloh vykázaných v položkách "B.I.8. Poskytnuté
+zálohy na dlouhodobý nehmotný majetek", "B.II.8. Poskytnuté zálohy na dlouhodobý
+hmotný majetek", "B.III.7. Poskytnuté zálohy na dlouhodobý finanční majetek",
+"C.I.6. Poskytnuté zálohy na zásoby" a "C.III.7. Krátkodobé poskytnuté zálohy".
+(7) Položka "C.II.6. Dohadné účty aktivní" obsahuje částky pohledávek stanovené
+například podle smluv, u kterých se očekává splatnost delší než jeden rok, které
+nejsou doloženy veškerými potřebnými doklady, a tedy není známa jejich přesná
+výše. (8) Položka "C.II.7. Jiné pohledávky" obsahuje u všech účetních jednotek
+zejména dlouhodobé pohledávky za zaměstnanci, pohledávky z prodeje podniku nebo
+jeho části, pohledávky z pronájmu podniku nebo jeho části, nakoupené opce,
+pohledávky z titulu náhrady mank a škod a dlouhodobé pohledávky z vydaných
+dluhopisů. 
+
+§ 11 Krátkodobé pohledávky (1) Položka "C.III. Krátkodobé pohledávky" obsahuje
+pohledávky, které v okamžiku, ke kterému je účetní závěrka sestavena, mají dobu
+splatnosti jeden rok a kratší. (2) Obsahové vymezení jednotlivých položek
+krátkodobých pohledávek v položkách "C.III.1. Pohledávky z obchodních vztahů" až
+"C.III.4. Pohledávky za společníky, členy družstva a za účastníky sdružení",
+"C.III.7. Krátkodobé poskytnuté zálohy" a "C.III.8. Dohadné účty aktivní" je
+obdobné obsahovému vymezení dlouhodobých pohledávek v položkách "C.II.1.
+Pohledávky z obchodních vztahů" až "C.II.4. Pohledávky za společníky, členy
+družstva a za účastníky sdružení", "C.II.5. Dlouhodobé poskytnuté zálohy" a
+"C.II.6. Dohadné účty aktivní" s odchylkami uvedenými v odstavcích 3, 4 a 5. (3)
+Položka "C.III.2. Pohledávky - ovládaná nebo ovládající osoba" obsahuje kromě
+titulů uvedených v položce "C.II.2. Pohledávky - ovládaná nebo ovládající osoba"
+zejména poskytnuté půjčky a úvěry. (4) Položka "C.III.3. Pohledávky - podstatný
+vliv" obsahuje kromě titulů uvedených v položce "C.II.3. Pohledávky - podstatný
+vliv" zejména poskytnuté půjčky a úvěry. (5) Položka "C.III.4. Pohledávky za
+společníky, členy družstva a za účastníky sdružení" obsahuje kromě titulů
+uvedených v položce "C.II.4. Pohledávky za společníky, členy družstva a za
+účastníky sdružení" zejména krátkodobé půjčky společníkům, členům družstva a
+převod nákladů a výnosů mezi účastníky sdružení, které není právnickou osobou.
+(6) Položka "C.III.6. Stát - daňové pohledávky" obsahuje zejména pohledávky z
+titulu přímých a nepřímých daní a uhrazených daňových záloh. Pokud účetní
+jednotka podle § 16 odst. 3 zaúčtuje rezervu na daň z příjmů, nevykáže položku
+"C.III.6. Stát - daňové pohledávky" v celkové výši, ale sníženou o
+předpokládanou daň do výše uhrazených záloh na daň z příjmů. Účetní jednotka
+popíše tuto skutečnost v příloze v účetní závěrce. (7) Položka "C.III.9. Jiné
+pohledávky" obsahuje kromě titulů uvedených v položce "C.II.7. Jiné pohledávky"
+zejména pohledávky vkladatele z titulu vkladu do doby zápisu do obchodního
+rejstříku a poskytnuté půjčky a úvěry, s výjimkou půjček a úvěrů vykazovaných v
+položkách "C.III.2. Pohledávky - ovládaná nebo ovládající osoba", "C.III.3.
+Pohledávky - podstatný vliv" a "C.III.4. Pohledávky za společníky, členy
+družstva a za účastníky sdružení". 
+
+§ 12 Krátkodobý finanční majetek (1) Položka "C.IV.1. Peníze" obsahuje zejména
+peníze v pokladně a ceniny, popřípadě peníze na cestě vztahující se k této
+položce. (2) Položka "C.IV.2. Účty v bankách" obsahuje zejména peněžní zůstatky
+na bankovních účtech, popřípadě peníze na cestě vztahující se k této položce.
+Pokud banka umožňuje, aby byl ke konci rozvahového dne vykázán pasivní zůstatek
+u běžného účtu, pak je tento zůstatek obsahem položky "B.IV.2. Krátkodobé
+bankovní úvěry". (3) Položka "C.IV.3. Krátkodobé cenné papíry a podíly" obsahuje
+zejména cenné papíry, které účetní jednotka určila k obchodování s cílem
+dosahovat zisk z cenových rozdílů v krátkodobém horizontu, nejvýše dvanáct
+měsíců, dluhové cenné papíry se splatností jeden rok a kratší, u nichž má účetní
+jednotka úmysl a schopnost držet je do splatnosti, a ostatní krátkodobé cenné
+papíry a podíly, u nichž zpravidla v okamžiku pořízení není znám záměr účetní
+jednotky. Vykazují se zde i nakoupené opční listy. 
+
+§ 13 Časové rozlišení v aktivech rozvahy (bilance) (1) Položka "D.I. Časové
+rozlišení" obsahuje tituly časového rozlišení, které mají aktivní zůstatek.
+Hlediskem pro účtování a vykazování účetních případů časového rozlišení je
+skutečnost, že jsou v okamžiku jejich účtování současně známy jejich účel (věcné
+vymezení), částka a období, kterých se týkají. (2) Položka "D.I.1. Náklady
+příštích období" obsahuje výdaje, které se týkají nákladů příštích účetních
+období. (3) Položka "D.I.2. Komplexní náklady příštích období" obsahuje položky,
+které se týkají nákladů příštích účetních období a které se souhrnně vztahují k
+danému účelu. (4) Položka "D.I.3. Příjmy příštích období" obsahuje částky účetní
+jednotkou nepřijaté, které časově a věcně souvisejí s výnosy běžného účetního
+období a nejsou účtovány přímo na účtech pohledávek za právnickými a fyzickými
+osobami. 
+
+§ 14 
+
+Základní kapitál (1) Položka "A.I.1. Základní kapitál" obsahuje zapsaný základní
+kapitál obchodních společností, zapsané i nezapsané kmenové jmění státních
+podniků, zapsaný i nezapsaný základní kapitál družstev, základní kapitál
+obchodních společností povinně nezapisovaný. Tato položka obsahuje též u fyzické
+osoby rozdíl mezi majetkem určeným k podnikání a závazky plynoucími z podnikání
+při zohlednění účtování o reálných hodnotách v příslušné položce vlastního
+kapitálu. (2) Položka "A.I.3. Změny základního kapitálu" obsahuje změny
+základního kapitálu vykazované příslušnými obchodními společnostmi před zápisem
+změn základního kapitálu do obchodního rejstříku. 
+
+§ 14a Kapitálové fondy (1) Položka "A.II.4. Oceňovací rozdíly z přecenění při
+přeměnách společností" obsahuje rozdíly mezi oceněním majetku a závazků v
+účetnictví zanikající účetní jednotky nebo části účetní jednotky rozdělované
+odštěpením a oceněním jmění při přeměně společnosti podle zákona o přeměnách k
+rozvahovému dni pro ocenění. Pro účely této vyhlášky se rozvahovým dnem pro
+ocenění rozumí den, k němuž byla sestavena účetní závěrka využitá pro ocenění
+jmění posudkem znalce pro projekt přeměny společnosti. (2) Položka "A.II.5.
+Rozdíly z přeměn společností" obsahuje rozdíly z rozvahových operací vzniklé
+například vyloučením vzájemných pohledávek a závazků nebo případné rozdíly
+plynoucí například z vyloučení aktiv a pasiv, která se v souladu s vyhláškou a
+zákonem nevykazují. Tato položka neobsahuje rozdíly z rozvahových operací, které
+souvisejí se změnami ve vlastním kapitálu podle zvláštních právních předpisů.
+(3) Položka "A.II.6. Rozdíly z ocenění při přeměnách společností" obsahuje u
+majetku a závazků, které byly vykázány v účetní závěrce využité pro ocenění
+jmění pro projekt přeměny společnosti, oceňovací rozdíly, které se vztahují k
+úbytkům tohoto majetku a závazků v období ode dne následujícího po rozvahovém
+dni pro ocenění do rozhodného dne. 
+
+§ 15 Rezervní fondy, nedělitelný fond a ostatní fondy ze zisku Položka "A.III.
+Rezervní fondy, nedělitelný fond a ostatní fondy ze zisku" obsahuje fondy
+vytvářené podle obchodního zákoníku, popřípadě stanov, společenské smlouvy,
+zakladatelské smlouvy, zakladatelské listiny nebo podle zákona o státním
+podniku. 
+
+§ 15a Výsledek hospodaření minulých let Položka "A.IV.3. Jiný výsledek
+hospodaření minulých let" obsahuje rozdíly ze změn účetních metod a část
+odložené daně podle § 59 odst. 6. Dále obsahuje opravy v důsledku nesprávného
+účtování nebo neúčtování o nákladech a výnosech v minulých účetních obdobích,
+pokud jsou významné. Účetní jednotka popíše použití položky "A.IV.3. Jiný
+výsledek hospodaření minulých let" v příloze v účetní závěrce. 
+
+§ 16 Rezervy (1) Položka "B.I. Rezervy" obsahuje rezervy podle zvláštních
+právních předpisů, rezervu na důchody a podobné závazky, rezervu na daň z příjmů
+a ostatní rezervy. (2) Položka "B.I.2. Rezerva na důchody a podobné závazky" se
+vykazuje, pokud účetní jednotka vytváří tuto rezervu na základě povinnosti
+vyplácet zaměstnancům důchody nebo podobné požitky uložené jí smlouvou nebo
+právním předpisem. (3) Rezerva na daň z příjmů se vykazuje v případě, kdy
+okamžik sestavení účetní závěrky předchází okamžiku řádného vyčíslení daně a
+zaúčtuje se ve výši předpokládané daně. Účetní jednotka uvede položku "B.I.3.
+Rezerva na daň z příjmů" ve výši vytvořené rezervy snížené o uhrazené zálohy na
+daň z příjmů, pokud jsou tyto zálohy nižší než předpokládaná daň. Pokud jsou
+tyto zálohy vyšší nebo rovny předpokládané dani, účetní jednotka položku "B.I.3.
+Rezerva na daň z příjmů" neuvede. (4) Položka "B.I.4. Ostatní rezervy" obsahuje
+zejména rezervu na garanční opravy a rezervu na restrukturalizaci, kterou lze
+tvořit a čerpat pouze na náklady nezbytně nutné k uskutečnění programu
+restrukturalizace, které nesouvisí s pokračujícími aktivitami účetní jednotky. 
+
+§ 17 Dlouhodobé závazky (1) Položka "B.II. Dlouhodobé závazky" obsahuje závazky,
+které v okamžiku, ke kterému je účetní závěrka sestavena, mají dobu splatnosti
+delší než jeden rok, a odložený daňový závazek. (2) Položka "B.II.1. Závazky z
+obchodních vztahů" obsahuje u všech účetních jednotek zejména závazky z
+obchodních vztahů, závazky plynoucí ze směnek, prostřednictvím nichž má být
+placeno. (3) Položka "B.II.2. Závazky - ovládaná nebo ovládající osoba" obsahuje
+závazky k ovládaným osobám, mezi ovládanými osobami a k ovládajícím osobám,
+které nejsou vykázány v ostatních položkách. Obsahuje zejména závazky z
+dlouhodobých půjček a úvěrů. (4) Položka "B.II.3. Závazky - podstatný vliv"
+obsahuje závazky k účetním jednotkám pod podstatným vlivem, mezi účetními
+jednotkami pod podstatným vlivem a závazky účetních jednotek pod podstatným
+vlivem k účetním jednotkám uplatňujícím podstatný vliv. Obsahuje zejména závazky
+z dlouhodobých půjček a úvěrů. (5) Položka "B.II.4. Závazky ke společníkům,
+členům družstva a k účastníkům sdružení" obsahuje zejména dlouhodobé závazky z
+titulu poskytnutých půjček společníky a závazky k účastníkům sdružení, které
+není právnickou osobou. (6) Položka "B.II.6. Vydané dluhopisy" obsahuje závazky
+emitenta z titulu vydaných dluhopisů po odečtení vlastních dluhopisů. (7)
+Položka "B.II.8. Dohadné účty pasivní" obsahuje částky závazků stanovené
+například podle smluv, u kterých se očekává splatnost delší než jeden rok, které
+nejsou doloženy veškerými potřebnými doklady, a tedy není známa jejich přesná
+výše. (8) Položka "B.II.9. Jiné závazky" obsahuje u všech účetních jednotek
+zejména dlouhodobé závazky z nájmu podniku nebo jeho části, závazky z koupě
+podniku nebo jeho části a prodané opce. Dále obsahuje závazky z titulu přijatých
+půjček, s výjimkou závazků vykázaných v položkách "B.II.2. Závazky - ovládaná
+nebo ovládající osoba", "B.II.3. Závazky - podstatný vliv" a "B.II.4. Závazky ke
+společníkům, členům družstva a k účastníkům sdružení". 
+
+§ 18 Krátkodobé závazky (1) Položka "B.III. Krátkodobé závazky" obsahuje
+závazky, které v okamžiku, ke kterému je účetní závěrka sestavena, mají dobu
+splatnosti jeden rok a kratší. (2) Obsahové vymezení položek krátkodobých
+závazků "B.III.1. Závazky z obchodních vztahů" až "B.III.3. Závazky - podstatný
+vliv", "B.III.9. Vydané dluhopisy" a "B.III.10. Dohadné účty pasivní" je obdobné
+obsahovému vymezení položek dlouhodobých závazků "B.II.1. Závazky z obchodních
+vztahů" až "B.II.3. Závazky - podstatný vliv", "B.II.6. Vydané dluhopisy" a
+"B.II.8. Dohadné účty pasivní". (3) Položka "B.III.4. Závazky ke společníkům,
+členům družstva a k účastníkům sdružení" obsahuje obdobné tituly jako položka
+"B.II.4. Závazky ke společníkům, členům družstva a k účastníkům sdružení" a dále
+zejména závazky ke společníkům a členům družstva ve výši jejich podílu na zisku,
+závazky ke společníkům ve společnostech s ručením omezeným a komanditistům
+komanditních společností a členům družstev ze závislé činnosti, závazky z
+upsaných nesplacených akcií a vkladů a závazky k účastníkům sdružení, které není
+právnickou osobou. (4) Položka "B.III.5. Závazky k zaměstnancům" obsahuje u
+všech účetních jednotek zejména závazky z pracovněprávních vztahů k
+zaměstnancům, popřípadě jiným fyzickým osobám, s výjimkou závazků ke společníkům
+ve společnostech s ručením omezeným a komanditistům komanditních společností a
+členům družstev ze závislé činnosti. (5) Položka "B.III.6. Závazky ze sociálního
+zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky
+ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím jak v
+zákonné výši, tak z dobrovolného plnění. 
+
+§ 19 Časové rozlišení v pasivech rozvahy (bilance) (1) Položka "C.I. Časové
+rozlišení" obsahuje tituly časového rozlišení, které mají pasivní zůstatek.
+Hlediskem pro účtování a vykazování účetních případů časového rozlišení je
+skutečnost, že jsou v okamžiku jejich účtování současně známy jejich účel (věcné
+vymezení), částka a období, kterých se týkají. (2) Položka "C.I.1. Výdaje
+příštích období" obsahuje náklady, které souvisejí s běžným účetním obdobím,
+avšak výdaj na ně nebyl dosud uskutečněn. (3) Položka "C.I.2. Výnosy příštích
+období" obsahuje příjmy, které věcně patří do výnosů v příštích účetních
+obdobích. 
+
+HLAVA III OBSAHOVÉ VYMEZENÍ NĚKTERÝCH POLOŽEK VÝKAZU ZISKU A ZTRÁTY 
+
+§ 20 Obchodní marže (1) Položka "+ Obchodní marže" obsahuje rozdíl z
+vyúčtovaných tržeb za prodej zboží a nákladů vynaložených na prodané zboží. (2)
+Položka "A. Náklady vynaložené na prodané zboží" obsahuje pořizovací cenu,
+popřípadě reprodukční pořizovací cenu prodaného zboží, přeúčtovanou z
+příslušného účtu účtové skupiny 13. 
+
+§ 21 Výkony Položka "II. Výkony" obsahuje a) tržby za prodej vlastních výrobků a
+služeb, b) změnu stavu zásob vlastní výroby, to je nedokončené výroby,
+polotovarů, výrobků a mladých a ostatních zvířat a jejich skupin; tato položka
+může mít i zápornou hodnotu, c) aktivaci, v této položce je hodnota aktivovaných
+nákladů zejména na zásoby a dlouhodobý nehmotný a hmotný majetek vytvořený
+vlastní činností. 
+
+§ 22 Služby Položka "B.2. Služby" obsahuje zejména náklady na opravy a
+udržování, cestovné, náklady na reprezentaci, nájemné a náklady na pořízení
+drobného nehmotného majetku. 
+
+§ 23 Přidaná hodnota Položka "+ Přidaná hodnota" obsahuje součet položky "+
+Obchodní marže" a rozdílu položek "II. Výkony" a "B. Výkonová spotřeba". 
+
+§ 24 Osobní náklady Položka "C. Osobní náklady" obsahuje mzdové náklady, včetně
+příjmů společníků a členů družstva ze závislé činnosti, odměny členům orgánů
+společnosti a družstva, náklady na sociální zabezpečení a zdravotní pojištění
+zákonné i ostatní a sociální náklady zákonné i ostatní, včetně sociálních
+nákladů fyzické osoby. 
+
+§ 25 Daně a poplatky Položka "D. Daně a poplatky" obsahuje veškeré daně a
+poplatky zaúčtované účetní jednotkou jako náklady s výjimkou daně z příjmů. 
+
+§ 26 Změna stavu rezerv a opravných položek v provozní oblasti a komplexních
+nákladů příštích období Položka "G. Změna stavu rezerv a opravných položek v
+provozní oblasti a komplexních nákladů příštích období" obsahuje rozdíl mezi
+konečným a počátečním stavem rezerv, opravných položek a komplexních nákladů
+příštích období; tato položka může mít i zápornou hodnotu. 
+
+§ 27 Ostatní provozní výnosy Položka "IV. Ostatní provozní výnosy" obsahuje
+zejména smluvní pokuty a úroky z prodlení, výnosy z postoupených pohledávek a
+výnosy z odepsaných pohledávek, inventarizační rozdíly, dotace k úhradě nákladů
+nebo k úhradě jiné ekonomické újmy a pojistná plnění, která nejsou uvedena v
+položce "XIII. Mimořádné výnosy". 
+
+§ 28 Ostatní provozní náklady Položka "H. Ostatní provozní náklady" obsahuje
+zejména poskytnuté dary, smluvní pokuty a úroky z prodlení, ostatní pokuty a
+penále, odpis pohledávek, pojistné vztahující se k provozní činnosti,
+inventarizační rozdíly a škody v provozní oblasti. Škodou se v tomto případě
+rozumí fyzické znehodnocení, to je neodstranitelné poškození nebo zničení,
+dlouhodobého nehmotného a hmotného majetku a zásob, a to z objektivních i
+subjektivních příčin. Dále obsahuje spotřebu preferenčních limitů, které nelze
+odpisovat podle času nebo výkonů, a spotřebu povolenek na emise a jejich číselné
+označení v rejstříku obchodování s povolenkami. Spotřeba povolenek je vykázána
+bez ohledu na jejich následné vyřazení. 
+
+§ 29 Výnosy z dlouhodobého finančního majetku Položka "VII. Výnosy z
+dlouhodobého finančního majetku" obsahuje zejména dividendy, podíly na zisku,
+úrokové výnosy u dluhových cenných papírů ve věcné a časové souvislosti, u
+dluhopisů s pevnou úrokovou sazbou držených do splatnosti rozdíl mezi pořizovací
+cenou bez kuponu a jmenovitou hodnotou dluhopisu ve věcné a časové souvislosti,
+u dluhopisů, jejichž úrokový výnos je stanoven rozdílem mezi jmenovitou hodnotou
+a nižším emisním kursem, rozdíl mezi pořizovací cenou a jmenovitou hodnotou. 
+
+§ 30 Náklady z finančního majetku Položka "K. Náklady z finančního majetku"
+obsahuje například u dluhopisů s pevnou úrokovou sazbou držených do splatnosti
+rozdíl mezi pořizovací cenou bez kuponu a jmenovitou hodnotou ve věcné a časové
+souvislosti. 
+
+§ 31 Změna stavu rezerv a opravných položek ve finanční oblasti Položka "M.
+Změna stavu rezerv a opravných položek ve finanční oblasti" obsahuje rozdíl mezi
+konečným a počátečním stavem rezerv a opravných položek ve finanční oblasti;
+tato položka může mít i zápornou hodnotu. 
+
+§ 32 Výnosové úroky, nákladové úroky Položka "X. Výnosové úroky" a položka "N.
+Nákladové úroky" obsahuje úroky vykázané ve věcné a časové souvislosti; do
+příslušné položky patří i úroky, které nebyly zahrnuty do bankovního vyúčtování.
+
+§ 33 
+
+Ostatní finanční výnosy Položka "XI. Ostatní finanční výnosy" obsahuje zejména
+kursové zisky a nároky na náhrady mank a schodků na finančním majetku. 
+
+§ 34 Ostatní finanční náklady Položka "O. Ostatní finanční náklady" obsahuje
+zejména kursové ztráty, manka, schodky a škody na finančním majetku a bankovní
+výlohy. 
+
+§ 35 Mimořádné výnosy Položka "XIII. Mimořádné výnosy" obsahuje výnosy z operací
+zcela mimořádných vzhledem k běžné činnosti účetní jednotky, jakož i výnosy z
+mimořádných událostí nahodile se vyskytujících. 
+
+§ 36 Mimořádné náklady Položka "R. Mimořádné náklady" obsahuje náklady z operací
+zcela mimořádných vzhledem k běžné činnosti účetní jednotky, jakož i náklady z
+mimořádných událostí nahodile se vyskytujících. 
+
+§ 37 Převod podílu na výsledku hospodaření společníkům Položka "T. Převod podílu
+na výsledku hospodaření společníkům" obsahuje nárok na podíl na zisku nebo
+povinnost úhrady ztráty vůči společníkům veřejné obchodní společnosti a
+komplementářům komanditní společnosti. 
+
+§ 38 Výkaz zisku a ztráty v účelovém členění Nákladové položky "A. Náklady
+prodeje", "B. Odbytové náklady" a "C. Správní režie" obsahují náklady na
+provozní činnost členěné podle funkce. Obsahové vymezení položek "IV. Výnosy z
+dlouhodobého finančního majetku", "F. Náklady z finančního majetku", "H. Změna
+stavu rezerv a opravných položek ve finanční oblasti", "VII. Výnosové úroky",
+"I. Nákladové úroky", "VIII. Ostatní finanční výnosy", "J. Ostatní finanční
+náklady", "X. Mimořádné výnosy", "M. Mimořádné náklady" a "O. Převod podílu na
+výsledku hospodaření společníkům" je obdobné obsahovému vymezení položek "VII.
+Výnosy z dlouhodobého finančního majetku", "K. Náklady z finančního majetku",
+"M. Změna stavu rezerv a opravných položek ve finanční oblasti", "X. Výnosové
+úroky", "N. Nákladové úroky", "XI. Ostatní finanční výnosy", "O. Ostatní
+finanční náklady", "XIII. Mimořádné výnosy", "R. Mimořádné náklady" a "T. Převod
+podílu na výsledku hospodaření společníkům". 
+
+§ 38a Výsledky hospodaření (1) Položka "* Provozní výsledek hospodaření" a) ve
+výkazu zisku a ztráty - druhové členění zohledňuje položky "I. Tržby za prodej
+zboží" až "I. Převod provozních nákladů", b) ve výkazu zisku a ztráty - účelové
+členění zohledňuje položky "I. Tržby z prodeje výrobků, zboží a služeb" až "D.
+Jiné provozní náklady". (2) Položka "* Finanční výsledek hospodaření" a) ve
+výkazu zisku a ztráty - druhové členění zohledňuje položky "VI. Tržby z prodeje
+cenných papírů a podílů" až "P. Převod finančních nákladů", b) ve výkazu zisku a
+ztráty - účelové členění zohledňuje položky "III. Tržby z prodeje cenných papírů
+a podílů" až "K. Převod finančních nákladů". (3) Položka "** Výsledek
+hospodaření za běžnou činnost" a) ve výkazu zisku a ztráty - druhové členění je
+součtem položek "* Provozní výsledek hospodaření" a "* Finanční výsledek
+hospodaření" sníženým o položku "Q. Daň z příjmů za běžnou činnost", b) ve
+výkazu zisku a ztráty - účelové členění je součtem položek "* Provozní výsledek
+hospodaření" a "* Finanční výsledek hospodaření" sníženým o položku "L. Daň z
+příjmů za běžnou činnost". (4) Položka "* Mimořádný výsledek hospodaření" a) ve
+zisku výkazu a ztráty - druhové členění rozdílem položky "XIII. Mimořádné
+výnosy" a je součtu položek "R. Mimořádné náklady" a "S. Daň z příjmů z
+mimořádné činnosti", b) ve výkazu zisku a ztráty - účelové členění je rozdílem
+položky "X. Mimořádné výnosy" a součtu položek "M. Mimořádné náklady" a "N. Daň
+z příjmů z mimořádné činnosti". (5) Položka "*** Výsledek hospodaření za účetní
+období" a) ve výkazu zisku a ztráty - druhové členění je součtem položek "**
+Výsledek hospodaření za běžnou činnost" a "* Mimořádný výsledek hospodaření"
+sníženým o položku "T. Převod podílu na výsledku hospodaření společníkům", b) ve
+výkazu zisku a ztráty - účelové členění je součtem položek "** Výsledek
+hospodaření za běžnou činnost" a "* Mimořádný výsledek hospodaření" sníženým o
+položku "O. Převod podílu na výsledku hospodaření společníkům". (6) Položka
+"**** Výsledek hospodaření před zdaněním" a) ve výkazu zisku a ztráty - druhové
+členění je součtem položek "* Provozní výsledek hospodaření", "* Finanční
+výsledek hospodaření" a položky "XIII. Mimořádné výnosy" sníženým o položku "R.
+Mimořádné náklady", b) ve výkazu zisku a ztráty - účelové členění je součtem
+položek "* Provozní výsledek hospodaření", "* Finanční výsledek hospodaření" a
+položky "X. Mimořádné výnosy" sníženým o položku "M. Mimořádné náklady". 
+
+HLAVA IV USPOŘÁDÁNÍ A OBSAHOVÉ VYMEZENÍ VYSVĚTLUJÍCÍCH A DOPLŇUJÍCÍCH INFORMACÍ
+V PŘÍLOZE V ÚČETNÍ ZÁVĚRCE 
+
+§ 39 (1) V příloze účetní jednotka uvede informace podle zákona, zejména
+informace podle § 18 odst. 2 zákona, datum vzniku účetní jednotky nebo datum
+zahájení činnosti, údaje o fyzických a právnických osobách, které ovládají tuto
+účetní jednotku nebo v ní mají podstatný vliv s uvedením výše vkladu v
+procentech, popis změn a dodatků provedených v uplynulém účetním období v
+obchodním rejstříku a popis organizační struktury účetní jednotky a její zásadní
+změny během uplynulého účetního období. Dále účetní jednotka uvede jména a
+příjmení členů statutárních a dozorčích orgánů k rozvahovému dni. (2) V příloze
+uvede účetní jednotka obchodní firmu a sídlo účetních jednotek, které účetní
+jednotka ovládá nebo v nichž má účetní jednotka podstatný vliv s uvedením výše
+podílu na základním kapitálu. Uvádějí se také případné dohody mezi společníky,
+které zakládají rozhodovací práva bez ohledu na výši podílu na základním
+kapitálu u těchto účetních jednotek. Účetní jednotka uvede také výši vlastního
+kapitálu a výši výsledku hospodaření za poslední účetní období účetních
+jednotek, které ovládá nebo v nichž má podstatný vliv s ohledem na § 19 odst. 6
+zákona. Účetní jednotka rovněž uvede obchodní firmu nebo název, sídlo a právní
+formu každé z účetních jednotek, v níž je účetní jednotka společníkem s
+neomezeným ručením. Účetní jednotka uvede dále, zda byly uzavřeny ovládací
+smlouvy nebo smlouvy o převodech zisku a jaké povinnosti z nich vyplývají. (3) V
+příloze uvede účetní jednotka průměrný přepočtený počet zaměstnanců během
+účetního období a z toho členů řídících orgánů, s uvedením výše osobních
+nákladů, které byly vynaloženy na zaměstnance a z toho na členy řídících orgánů.
+Dále se uvedou odměny osobám, které jsou statutárním orgánem, členům
+statutárních a dozorčích orgánů, jakož i výše vzniklých nebo sjednaných
+penzijních závazků bývalých členů vyjmenovaných orgánů. Uvádějí se úhrnné údaje,
+nikoliv údaje o jednotlivých pracovnících. (4) V příloze uvede účetní jednotka
+výši půjček, úvěrů, s uvedením úrokové sazby a hlavních podmínek, poskytnutá
+zajištění a ostatní plnění jak v peněžní, tak v nepeněžní formě osobám, které
+jsou statutárním orgánem, členům statutárních nebo jiných řídících a dozorčích
+orgánů včetně bývalým osobám a členům těchto orgánů v úhrnné výši odděleně za
+jednotlivé kategorie osob. Za ostatní plnění se považují zejména bezplatná
+předání k užívání osobních automobilů nebo jiných movitých a nemovitých věcí,
+využití služeb poskytovaných účetní jednotkou a platby důchodového připojištění.
+(5) Účetní jednotka uvede a) informace o aplikaci obecných účetních zásad, o
+použitých účetních metodách, způsobech oceňování a odpisování, jejichž znalost
+je významná pro posouzení finanční, majetkové situace a výsledku hospodaření
+účetní jednotky a pro analýzu údajů obsažených v rozvaze (bilanci) a ve výkazu
+zisku a ztráty, b) informace o odchylkách od metod podle § 7 odst. 5 zákona s
+uvedením jejich vlivu na majetek a závazky, na finanční situaci a výsledek
+hospodaření účetní jednotky, c) podle principu významnosti způsob stanovení
+opravných položek a oprávek k majetku s uvedením zdroje informací pro stanovení
+výše opravných položek a oprávek, způsob uplatněný při přepočtu údajů v cizích
+měnách na českou měnu a způsob stanovení reálné hodnoty příslušného majetku a
+závazků podle zákona, popis použitého oceňovacího modelu při ocenění reálnou
+hodnotou, změny reálné hodnoty včetně změn v ocenění podílu ekvivalencí podle
+jednotlivých druhů finančního majetku a způsob jejich zaúčtování, pro každý druh
+derivátů údaje o rozsahu a podstatě, včetně hlavních podmínek a okolností, které
+mohou ovlivnit výši, časový průběh a určitost budoucích peněžních toků a tabulku
+s uvedením změn reálné hodnoty během účetního období na příslušném účtu v účtové
+skupině 41; pokud nebyly majetek a závazky oceněny reálnou hodnotou nebo
+ekvivalencí, uvede účetní jednotka důvody a případnou výši opravné položky. (6)
+V další části přílohy uvede účetní jednotka doplňující informace k rozvaze
+(bilanci) a výkazu zisku a ztráty. Vysvětlí každou významnou položku nebo
+skupinu položek z rozvahy (bilance) nebo výkazu zisku a ztráty, jejichž uvedení
+je podstatné pro analýzu a pro hodnocení finanční a majetkové situace a výsledku
+hospodaření účetní jednotky a tyto informace nevyplývají přímo ani nepřímo z
+rozvahy (bilance) a výkazu zisku a ztráty, a u významných položek aktiv uvede
+též jejich přírůstky a úbytky. Zvlášť uvede významné údaje, které nejsou v
+rozvaze (bilanci) a výkazu zisku a ztráty samostatně vykázány, zejména doměrky
+splatné daně z příjmů za minulá účetní období, rozpis odloženého daňového
+závazku nebo pohledávky, rozpis rezerv a dlouhodobých bankovních úvěrů včetně
+úrokových sazeb a popisu zajištění úvěrů, výši splatných závazků pojistného na
+sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, výši
+splatných závazků veřejného zdravotního pojištění a výši evidovaných daňových
+nedoplatků u místně příslušných finančních a celních orgánů, výši pohledávek
+určených k obchodování oceněných reálnou hodnotou, přijaté dotace na investiční
+a provozní účely. Dále uvede údaj o individuálním referenčním množství mléka,
+individuální produkční kvótě, individuálním limitu prémiových práv a jiných
+obdobných kvótách a limitech, o kterých účetní jednotka neúčtovala na
+rozvahových ani výsledkových účtech, protože náklady na získání informace o
+jejich ocenění reprodukční pořizovací cenou by převýšily její významnost. Účetní
+jednotka dále uvede informace o druzích zvířat, která jsou vykazována jako
+dlouhodobý hmotný majetek a zásoby. Pokud účetní jednotka vlastní, má právo nebo
+příslušnost k hospodaření k více než 10 ha lesních pozemků s lesním porostem,
+uvede také tyto údaje: a) celková výměra lesních pozemků s lesním porostem, b)
+výše ocenění lesních porostů stanovená součinem výměry lesních pozemků s lesním
+porostem v m2 a průměrné hodnoty zásoby surového dřeva na m2, která činí 57 Kč.
+Pokud účetní jednotka zjišťuje cenu lesního porostu také jiným způsobem než
+součinem lesních pozemků s lesním porostem a průměrné hodnoty zásoby surového
+dřeva podle písmene b), například v souvislosti s podrobnějším členěním podle
+skupiny dřevin, a takto zjištěná cena je významně rozdílná, uvede také tuto cenu
+a informace o způsobu stanovení její výše a jejím účelu. (7) Účetní jednotka v
+příloze též uvede důležité informace týkající se majetku a závazků, zejména
+pohledávky a závazky po lhůtě splatnosti, pohledávky a závazky, které k
+rozvahovému dni mají dobu splatnosti delší než pět let, pronájem majetku,
+zatížení majetku zástavním právem nebo věcným břemenem a uvedení převedeného
+nebo poskytnutého zajištění, například majetek v rámci najatého podniku nebo
+jeho části, penzijní závazky a závazky vůči účetním jednotkám v konsolidačním
+celku uvede zvlášť. Dále účetní jednotka uvede každou významnou událost, která
+se stane mezi rozvahovým dnem a okamžikem sestavení účetní závěrky podle § 19
+odst. 5 zákona. (8) Za předpokladu, že účetní jednotka zvolí pro sestavení
+účetní závěrky výkaz zisku a ztráty podle přílohy č. 3 k této vyhlášce, uvede v
+rámci přílohy náklady a výnosy provozního výsledku hospodaření v členění podle
+přílohy č. 2 k této vyhlášce podle § 4 odst. 9. a) (9) celkovou V výši další
+závazkůčásti , přílohy je-li uvede tato účetní informace jednotka významná
+informacek , posouzení které finanční nejsou situace vykázány účetní v
+jednotkyrozvaze , (bilancib) )s : ohledem na . princip významnosti drobný
+nehmotný a hmotný majetek, c) charakter a obchodní účel operací účetní jednotky,
+která je právnickou osobou, jsou-li rizika nebo užitky z těchto operací významné
+a pokud je zveřejnění těchto rizik nebo užitků nezbytné k posouzení finanční
+situace účetní jednotkyÚčetní jednotka, která ke konci rozvahového dne, za nějž
+se účetní závěrka sestavuje, překročila alespoň dvě ze tří kritérií: 1. aktiva
+celkem více než 350000000 Kč; aktivy celkem se pro účely této vyhlášky rozumí
+úhrn zjištěný z rozvahy v ocenění neupraveném o položky podle § 26 odst. 3
+zákona, 2. roční úhrn čistého obratu více než 700000000 Kč; ročním úhrnem
+čistého obratu se pro účely této vyhlášky rozumí výše výnosů snížená o prodejní
+slevy, dělená počtem započatých měsíců, po které trvalo účetní období, a
+vynásobená dvanácti, 3. průměrný přepočtený stav zaměstnanců, včetně případů
+pracovního vztahu člena k družstvu, v průběhu účetního období více než 250,
+zjištěný způsobem stanoveným na základě zvláštního právního předpisu, uvede i
+informaci o finančním dopadu těchto operací na účetní jednotku. (10) V další
+části přílohy uvede účetní jednotka, která je právnickou osobou, a a) která
+překročila ke konci rozvahového dne, za který se účetní závěrka sestavuje,
+alespoň dvě ze tří kritérií uvedených v odstavci 9 písm. c), informace o
+transakcích, které uzavřela se spřízněnou stranou. Pokud jsou tyto transakce
+významné a nebyly uzavřeny za běžných tržních podmínek, účetní jednotka uvede
+výši těchto transakcí včetně povahy vztahu se spřízněnou stranou a ostatní
+informace o těchto transakcích, které jsou nezbytné k pochopení finanční situace
+účetní jednotky. Výraz "spřízněná strana" má stejný význam jako v mezinárodních
+účetních standardech upravených právem Evropské unie, b) která má formu akciové
+společnosti a která nemá povinnost uvádět informace podle písmena a), informace
+o transakcích provedených přímo nebo nepřímo mezi 1. účetní jednotkou a jejími
+většinovými akcionáři, 2. účetní jednotkou a členy správních, řídících a
+dozorčích orgánů, které jsou nezbytné k pochopení finanční situace účetní
+jednotky, pokud jsou tyto transakce významné a nebyly uzavřeny za běžných
+tržních podmínek. Informace o jednotlivých transakcích lze seskupovat podle
+jejich charakteru s výjimkou případů, kdy jsou samostatné informace nezbytné k
+pochopení dopadu transakcí na finanční situaci účetní jednotky. Informace podle
+písmen a) a b) není účetní jednotka povinna uvést, pokud byly transakce
+provedeny mezi účetní jednotkou a jejím jediným společníkem. (11) V další části
+přílohy uvede účetní jednotka odděleně informace o celkových nákladech na odměny
+statutárnímu auditorovi nebo auditorské společnosti za účetní období v členění
+na: a) povinný audit účetní závěrky, b) jiné ověřovací služby, c) daňové
+poradenství, d) jiné neauditorské služby. Tyto informace není účetní jednotka
+povinna uvádět v případě, že je účetní jednotka zahrnuta do konsolidované účetní
+závěrky sestavené podle části páté, pokud jsou tyto informace uvedeny v příloze
+v konsolidované účetní závěrce. (12) V další části přílohy uvede účetní jednotka
+počet a jmenovitou hodnotu nebo ocenění podle § 25 zákona vydaných akcií během
+účetního období, u každého druhu akcií zvlášť; obdobně se postupuje u změn
+podílů. Dále účetní jednotka uvede informaci o vyměnitelných dluhopisech nebo
+podobných cenných papírech nebo právech s vyznačením jejich počtu a rozsahu
+práv, která zakládají. Významné zvýšení nebo snížení u jednotlivých složek
+vlastního kapitálu účetní jednotka popíše v příloze. (13) Účetní jednotka, která
+je právnickou osobou a překročila ke konci rozvahového dne, za který se účetní
+závěrka sestavuje, alespoň dvě ze tří kritérií uvedených v odstavci 9 písm. c),
+dále v příloze uvede a) informaci o rozčlenění tržeb z prodeje zboží, výrobků a
+služeb podle kategorií činností a podle zeměpisných trhů, pokud se tyto
+kategorie a trhy mezi sebou podstatně liší z hlediska způsobu, kterým je
+organizován prodej zboží a výrobků a poskytování služeb spadajících do běžné
+činnosti účetní jednotky, b) vysvětlení částky vykázané v položce "B.I.1.
+Zřizovací výdaje". 
+
+(14) Účetní jednotka, která použila účetní metody způsobem vycházejícím z
+předpokladu, že bude nepřetržitě pokračovat ve své činnosti a u které zároveň
+existuje významná nejistota, spočívající zejména ve skutečnosti, která
+nasvědčuje tomu, že účetní jednotka nemusí být schopna nepřetržitě pokračovat ve
+své činnosti a v důsledku toho v rámci své běžné podnikatelské činnosti
+například plnit své závazky, uvede v příloze v účetní závěrce tuto skutečnost.
+Dále popíše případná opatření nebo návrhy řešení těchto skutečností. (15)
+Příloha obsahuje i údaje předepsané v ustanoveních § 4 a 56 a v ustanoveních §
+40, 41 a 43, pokud účetní jednotka sestavuje přehled o peněžních tocích. 
+
+HLAVA V USPOŘÁDÁNÍ A OBSAHOVÉ VYMEZENÍ PŘEHLEDU O PENĚŽNÍCH TOCÍCH 
+
+§ 40 (1) Za peněžní prostředky se považují peníze v hotovosti včetně cenin
+(účtová skupina 21), peněžní prostředky na účtu včetně přečerpání běžného účtu
+(účtová skupina 22), případně účtová skupina 26. (2) Peněžními ekvivalenty se
+rozumí krátkodobý likvidní finanční majetek, který je snadno a pohotově
+směnitelný za předem známou částku peněžních prostředků a u tohoto majetku se
+nepředpokládají významné změny hodnoty v čase. Za peněžní ekvivalenty se
+považují například dlouhodobé peněžní úložky s nejvýše tříměsíční výpovědní
+lhůtou a likvidní cenné papíry k obchodování na veřejném trhu. (3) Převody v
+rámci jednotlivých položek peněžních prostředků a peněžních ekvivalentů se
+nepromítají do přehledu o peněžních tocích. (4) Účetní jednotka uvede v příloze
+buď položky zahrnované do peněžních prostředků a peněžních ekvivalentů nebo
+uplatňovanou zásadu přijatou pro určování obsahu peněžních prostředků a
+peněžních ekvivalentů. Účetní jednotka dále v příloze uvede změnu uplatňované
+zásady včetně změny v modelu, konstrukci a obsahové náplni ukazatelů oproti
+předchozímu účetnímu období včetně pravděpodobných účinků. (5) Účetní jednotka
+prokáže soulad mezi částkami peněžních prostředků a peněžních ekvivalentů v
+přehledu o peněžních tocích a mezi odpovídajícími položkami vykazovanými v
+rozvaze (bilanci). 
+
+§ 41 (1) Peněžní toky z provozních, investičních nebo finančních činností se
+uvádějí v přehledu o peněžních tocích nekompenzované. Případné výjimky z tohoto
+ustanovení účetní jednotka uvede v příloze. (2) Provozní činností se rozumí
+základní výdělečné činnosti účetní jednotky a ostatní činnosti účetní jednotky,
+které nelze zahrnout mezi investiční nebo finanční činnosti. (3) Investiční
+činností se rozumí pořízení a prodej dlouhodobého majetku, popřípadě činnost
+související s poskytováním úvěrů, půjček a výpomocí, které nejsou považovány za
+provozní činnost. (4) Finanční činností se rozumí taková činnost, která má za
+následek změny ve velikosti a složení vlastního kapitálu a dlouhodobých,
+popřípadě i krátkodobých závazků. 
+
+§ 42 (1) Účetní jednotka vykazuje peněžní toky z provozní činnosti: a) přímou
+metodou, u které se vykáží vhodně zvolené a uspořádané skupiny peněžních příjmů
+a výdajů, například v návaznosti na členění ve výkazu zisku a ztráty, nebo b)
+nepřímou metodou, u které je výsledek hospodaření účetní jednotky upraven
+ozejména : 1. nepeněžní transakce, 2. neuhrazené náklady a výnosy minulých nebo
+budoucích účetních období, 3. položky příjmů a výdajů spojených s finanční a
+investiční činností. (2) Za nepeněžní transakce v provozní činnosti se považují
+transakce, které ovlivňují výsledek hospodaření, avšak nemají přímý vliv na
+přírůstek nebo úbytek peněžních prostředků a peněžních ekvivalentů. Nepeněžní
+transakce zahrnují zejména odpisy, tvorbu a čerpání rezerv a opravných položek.
+(3) Nepeněžní transakce v investiční a finanční činnosti se vylučují z přehledu
+o peněžních tocích. 
+
+§ 43 (1) Peněžní toky spojené s peněžními transakcemi, které tvoří mimořádný
+výsledek hospodaření, peněžní toky spojené s inkasem a vyplacením úroků a
+dividend nebo podílů na zisku a platby daně z příjmů se uvádějí v přehledu o
+peněžních tocích v samostatných položkách. (2) Příjmy a výdaje související s
+mimořádnými účetními transakcemi a platby daně z příjmů se přiřadí v rámci
+praktických možností k provozní, investiční nebo finanční činnosti. V případě,
+že je nelze přiřadit, uvedou se v provozní činnosti. (3) Peněžní toky
+související s přijatými a vyplacenými úroky, s výjimkou kapitalizovaných úroků,
+a s přijatými dividendami, popřípadě podíly na zisku se zahrnou do provozní
+činnosti. (4) Peněžní toky související s přijatými úroky a přijatými dividendami
+nebo podíly na zisku mohou být alternativně vykazovány v rámci investiční
+činnosti a peněžní toky související s vyplacenými úroky, s výjimkou
+kapitalizovaných, mohou být alternativně zahrnuty do finanční činnosti. Peněžní
+toky související s vyplacenými kapitalizovanými úroky se zahrnují do investiční
+činnosti a vykazují se v rámci této činnosti jako samostatná položka nebo jako
+informace v příloze. (5) Vyplacené dividendy nebo podíly na zisku se zahrnou do
+finanční činnosti. V případech, ve kterých účetní jednotka pouze přerozděluje
+mezi společníky přijaté dividendy nebo podíly na zisku, se uvádějí tyto platby v
+rámci provozní činnosti. 
+
+HLAVA VI USPOŘÁDÁNÍ A OBSAHOVÉ VYMEZENÍ PŘEHLEDU O ZMĚNÁCH VLASTNÍHO KAPITÁLU 
+
+§ 44 (1) Přehled o změnách vlastního kapitálu podává informace o zvýšení nebo
+snížení jednotlivých složek vlastního kapitálu mezi dvěma rozvahovými dny. (2)
+Účetní jednotky vyčíslí vyplacené dividendy a zdroje, ze kterých bylo čerpáno. 
+
+ČÁST TŘETÍ SMĚRNÁ ÚČTOVÁ OSNOVA 
+
+§ 45 Směrná účtová osnova je uvedena v příloze č. 4 k této vyhlášce. 
+
+§ 46 (1) Při vedení účetnictví v plném rozsahu účetní jednotka stanoví v účtovém
+rozvrhu uspořádání a obsah syntetických účtů v rámci účtových skupin směrné
+účtové osnovy; při vedení účetnictví ve zjednodušeném rozsahu účetní jednotka
+sestaví účtový rozvrh, v němž může uvést pouze účtové skupiny, nevyžaduje-li
+zvláštní právní předpis členění podrobnější. V účtovém rozvrhu je účetní
+jednotka povinna vycházet z označení a uspořádání účtových skupin směrné účtové
+osnovy. Účetní jednotka, která sestavuje výkaz zisku a ztráty v účelovém
+členění, není povinna dodržet členění v účtových skupinách 50 až 55 a 60 až 64;
+členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8.
+(2) V rámci syntetických účtů účetní jednotky vytvářejí analytické účty, které
+zajišťují členění syntetických účtů například podle potřeb účetní závěrky,
+požadavků právních předpisů a případně dalších potřeb účetní jednotky. (3)
+Účetní jednotka, která poskytuje platební služby nebo vydává elektronické peníze
+a není finanční institucí podle zákona upravujícího činnost bank, uvede v
+účtovém rozvrhu samostatné účty, na kterých bude účtováno o této činnosti. 
+
+ČÁST ČTVRTÁ ÚČETNÍ METODY 
+
+§ 47 Způsoby oceňování dlouhodobého nehmotného a hmotného majetku a vymezení
+nákladů s jeho pořízením souvisejících Pokud je pořizování majetku zastaveno
+trvale, odepíše se pořizovaný majetek při jeho vyřazení do nákladů(1) Součástí
+ocenění dlouhodobého nehmotného a hmotného majetku a technického zhodnocení s
+ohledem na povahu pořizovaného majetku a způsob jeho pořízení do doby stanovené
+v § 6 odst. 8 nebo v § 7 odst. 11 je cena, za kterou byl majetek pořízen a
+zejména náklady na a) přípravu a zabezpečení pořizovaného majetku, zejména
+odměny za poradenské služby a zprostředkování, správní poplatky, platby za
+poskytnuté záruky a otevření akreditivu, expertízy, patentové rešerše a
+předprojektové přípravné práce, b) úroky, zejména z úvěru, pokud tak účetní
+jednotka rozhodne, c) odvody za dočasné nebo trvalé odnětí zemědělské půdy
+zemědělské výrobě a poplatky za dočasné nebo trvalé odnětí lesní půdy, d)
+průzkumné, geologické, geodetické a projektové práce včetně variantních řešení a
+rozpočtu, zařízení staveniště, odstranění porostu a příslušné terénní úpravy,
+clo, dopravné, montáž a umělecká díla tvořící součást stavby, e) licence,
+patenty a jiná práva využitá při pořizování majetku, nikoliv pro budoucí provoz,
+f) vyřazení stávajících staveb nebo jejich částí v důsledku nové výstavby.
+Zůstatkové ceny vyřazených staveb nebo jejich částí a náklady na vyřazení tvoří
+součást nákladů na novou výstavbu, g) náhrady za omezení vlastnických práv,
+náhrady majetkové újmy vlastníkovi nebo nájemci nemovitosti nebo za omezení v
+obvyklém užívání, jakož i náhrady za předčasně smýcený porost v souvislosti s
+výstavbou, h) úhradu podílu na 1. oprávněných nákladech provozovatele přenosové
+soustavy nebo příslušného provozovatele distribuční soustavy spojených s
+připojením a zajištěním požadovaného příkonu, 2. účelně vynaložených nákladech
+provozovatele distribuční soustavy spojených s připojením a se zajištěním
+požadované dodávky plynu, 3. účelně vynaložených nákladech dodavatele spojených
+s připojením a se zajištěním dodávky tepelné energie, i) úhrady nákladů za
+přeložky, překládky a náhradní pozemní komunikaci účetní jednotce, která má
+vlastnické právo k dotčenému majetku, anebo která hospodaří s majetkem státu
+nebo s majetkem územních samosprávných celků, j) zkoušky před uvedením majetku
+do stavu způsobilého k užívání. Vzniknou-li při zkouškách použitelné výrobky
+nebo výkony, jsou výnosy z těchto výrobků nebo výkonů součástí provozních výnosů
+a náklady na ně (bez odpisů) součástí provozních nákladů. Zkouškami nejsou záběh
+a osvojení, které jako počáteční vícenáklady zahajované výroby jsou součástí
+nákladů po uvedení majetku do stavu způsobilého k užívání, k) zabezpečovací,
+konzervační a udržovací práce při zastavení pořizování majetku a dekonzervační
+práce v případě dalšího pokračování. . (2) Součástí ocenění dlouhodobého
+nehmotného a hmotného majetku a technického zhodnocení zejména nejsou: a) opravy
+a údržba. Opravou se odstraňují účinky částečného fyzického opotřebení nebo
+poškození za účelem uvedení do předchozího nebo provozuschopného stavu. Uvedením
+do provozuschopného stavu se rozumí provedení opravy i s použitím jiných než
+původních materiálů, dílů, součástí nebo technologií, pokud tím nedojde k
+technickému zhodnocení. Údržbou se rozumí soustavná činnost, kterou se zpomaluje
+fyzické opotřebení a předchází poruchám a odstraňují se drobnější závady, b)
+náklady nájemce na uvedení najatého majetku do předcházejícího stavu, c) kursové
+rozdíly, d) smluvní pokuty a úroky z prodlení, popřípadě jiné sankce ze
+smluvních vztahů, e) nájemné za stavební pozemek, na kterém probíhá výstavba, f)
+náklady na zaškolení pracovníků, g) náklady na vybavení pořizovaného
+dlouhodobého majetku zásobami, h) náklady na biologickou rekultivaci, i) náklady
+spojené s přípravou a zabezpečením dlouhodobého majetku vzniklé po uvedení
+pořizovaného dlouhodobého majetku do užívání. (3) Ocenění jednotlivého
+dlouhodobého nehmotného majetku a odpisovaného dlouhodobého hmotného majetku se
+zvyšuje o technické zhodnocení,, k jehož účtování a odpisování je oprávněna
+účetní jednotka. V případě finančního leasingu se pořizovací cena majetku
+převzatého uživatelem do vlastnictví zvýší o technické zhodnocení odpisované
+uživatelem v průběhu užívání a pokračuje se v odpisování z takto zvýšené
+pořizovací ceny. (4) Ocenění dlouhodobého nehmotného a hmotného majetku a
+technického zhodnocení se sníží o dotaci na pořízení majetku a o dotaci na
+úhradu úroků zahrnovaných do ocenění majetku, s výjimkou povolenek na emise a
+preferenčních limitů bezúplatně nabytých prvním provozovatelem nebo držitelem.
+Za dotaci se považují bezúplatná plnění, která se poskytují přímo nebo
+zprostředkovaně podle zvláštních právních předpisů ze státního rozpočtu,
+státních finančních aktiv, Národního fondu, ze státních fondů, z rozpočtů
+územních samosprávných celků na stanovený účel. Za dotaci se rovněž považují
+bezúplatná plnění na stanovený účel ze zahraničí z prostředků Evropské unie nebo
+z veřejných rozpočtů cizího státu a granty poskytnuté podle zvláštního právního
+předpisu. Dotací se rovněž rozumí prominutí části poplatků, pokud to právní
+předpis umožňuje a příslušný orgán stanovil prominutou část poplatků za dotaci.
+(5) Bezúplatné nabytí preferenčních limitů a povolenek na emise prvním držitelem
+nebo provozovatelem se účtuje a vykazuje jako poskytnutí dotace ve výši ocenění
+reprodukční pořizovací cenou. Ocenění povolenek na emise a preferenčních limitů
+bezúplatně nabytých prvním provozovatelem nebo držitelem se nesnižuje o částku
+zaúčtovanou ve prospěch příslušného účtu účtové skupiny 34. Při spotřebě,
+prodeji či jiném úbytku těchto aktiv nebo při odpisu preferenčního limitu
+bezúplatně nabytého prvním držitelem, který lze odpisovat, se odpovídající
+částka zaúčtovaná ve prospěch příslušného účtu účtové skupiny 34 zaúčtuje na
+příslušné účty výnosů ve věcné a časové souvislosti s náklady. (6) Dlouhodobý
+hmotný majetek pořízený směnnou smlouvou se ocení pořizovací cenou, jsou-li ceny
+ve smlouvě sjednány, nebo reprodukční pořizovací cenou, nejsou-li ceny ve
+smlouvě sjednány. (7) Ocenění pořízeného pozemku je včetně lesního porostu nebo
+osázení stromy a keři, pokud nejsou pěstitelským celkem trvalých porostů (§ 7
+odst. 4). 
+
+§ 48 Vymezení nákladů souvisejících s pořízením cenných papírů a podílů Součástí
+pořizovací ceny cenného papíru a podílu jsou též náklady s pořízením
+související, například poplatky makléřům, poradcům, burzám. Součástí pořizovací
+ceny nejsou zejména úroky z úvěrů na pořízení cenných papírů a podílů a náklady
+spojené s držbou cenného papíru a podílu. 
+
+§ 49 Způsoby oceňování zásob a vymezení nákladů s jejich pořízením souvisejících
+(1) Součástí pořizovací ceny zásob jsou též náklady související s jejich
+pořízením, zejména přepravné vyúčtované dodavatelem nebo provedené účetní
+jednotkou, provize, clo a pojistné. Součástí pořizovací ceny zásob nejsou
+zejména úroky z úvěrů a půjček poskytnutých na jejich pořízení, kursové rozdíly,
+smluvní pokuty a úroky z prodlení a jiné sankce ze smluvních vztahů. (2) Náklady
+na úpravy skladovaného materiálu nebo zboží se považují za náklady související s
+pořízením zásob a zvyšují ocenění zásob. (3) Pokud jsou u stejného druhu zásob
+využity způsoby ocenění cenou, která vychází z ocenění jejich úbytků cenou
+zjištěnou podle ustanovení § 25 odst. 3 zákona, pak v rámci jednoho analytického
+účtu zásob je nutno používat pouze jeden způsob ocenění; pokud je využit vážený
+aritmetický průměr, počítá se nejméně jednou za měsíc. (4) Nevyfakturované
+dodávky se ocení podle uzavřené smlouvy, popřípadě jiných dokladů, které má
+účetní jednotka k dispozici. (5) Vlastními náklady se rozumí buď skutečná výše
+nákladů nebo výše nákladů podle způsobu kalkulace výroby stanoveného účetní
+jednotkou. Výrobou se rozumí i jiná činnost, při které nevznikají hmotné
+produkty. Odchylně mohou účetní jednotky oceňovat zásoby vlastní výroby, jimiž
+jsou nedokončená výroba, polotovary a výrobky a) ve výrobě s krátkodobým
+nepřetržitým cyklem nedokončenou výrobu pouze přímými materiálovými náklady a
+výrobky nebo polotovary přímými materiálovými a mzdovými náklady, b) v hromadné
+a velkosériové výrobě pouze přímými náklady, jimiž jsou náklady na přímý
+materiál, polotovary, přímé mzdy a ostatní přímé náklady, c) v malosériové a
+kusové nebo zakázkové výrobě a ve výrobě s dlouhodobým cyklem přímými náklady,
+výrobní režií a v případě, že výrobní cyklus přesahuje dvanáct měsíců výjimečně
+i správní režií. 
