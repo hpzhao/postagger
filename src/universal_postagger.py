@@ -13,16 +13,18 @@ flags = tf.app.flags
 FLAGS = flags.FLAGS
 
 flags.DEFINE_integer('is_training',1,'is training or testing,default is training')
-flags.DEFINE_integer('epochs',20,'epochs of train')
+flags.DEFINE_integer('epochs',10,'epochs of train')
+flags.DEFINE_string('model','./best.model','model used in test')
+flags.DEFINE_string('language','en','language')
+flags.DEFINE_string('pos_type','upos','type of pos')
+
 flags.DEFINE_string('emb_path','./','path of embedding')
 flags.DEFINE_string('cluster_path','./','path of brown cluster')
 flags.DEFINE_string('data_path','./','path of data')
 flags.DEFINE_string('train_file','train.conll','filename of train data')
 flags.DEFINE_string('dev_file','dev.conll','filename of dev data')
-flags.DEFINE_string('pos_type','upos','type of pos')
-flags.DEFINE_string('model','./best.model','model used in test')
-flags.DEFINE_string('language','en','language')
 flags.DEFINE_string('output','-ppos.conll','output filename')
+
 
 upos2id = {}
 id2upos = {}
@@ -237,11 +239,7 @@ def test():
         with tf.variable_scope('model'):
             model = Char_Based_BiLSTM(char_size,word_size,epochs = FLAGS.epochs,word_embedding = embedding,pos_classes = 17)
         
-        config = tf.ConfigProto()
-        config.inter_op_parallelism_threads = 1
-        config.intra_op_parallelism_threads = 1
-        
-        with tf.Session(config = config) as sess:
+        with tf.Session() as sess:
             dev_data = (dev_upos_word_dataset,dev_char_dataset,dev_cluster_dataset)
             saver = tf.train.Saver()
             model_path = os.path.join(FLAGS.data_path,FLAGS.model)
